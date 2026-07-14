@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&width=1200&section=header&text=KariKalan&fontSize=60&fontAlignY=35&desc=ISMF%20Undergraduate%20%7C%20Data%20Analyst%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&width=1200&section=header&text=KariKalan&fontSize=60&fontAlignY=35&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 </p>
 
 
-<h1 align="center">Hi 👋, I'm KariKalan</h1>
+<h2 align="center">Hi 👋, I'm KariKalan</h2>
 
 <h3 align="center">
-Industrial Statistics & Mathematical Finance @ University of Colombo
+Industrial Statistics & Mathematical Finance Undergraduate @ University of Colombo
 <br>
-Data Analyst | MERN Stack Developer | AI-Assisted Engineering
+Data Analyst | Full Stack Developer | AI-Assisted Engineering | Statistical Computing
 </h3>
 
 
