@@ -8,7 +8,7 @@
 <h3 align="center">
 Industrial Statistics & Mathematical Finance @ University of Colombo
 <br>
-MERN Stack Developer | AI-Assisted Engineering
+Data Analyst | MERN Stack Developer | AI-Assisted Engineering
 </h3>
 
 
